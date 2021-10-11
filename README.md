@@ -26,7 +26,7 @@ The Root Transform for the Mars assembly is located on "MARS_ORIGIN" as shown ab
 
 "MARS ROTATION BASE" is the root and rotationally controlled transform for the Mars surfaces.
 
-"MARS GEO ZOOM CONTROL" is event processor base that handles user interactions with the planet and initiates all navigation from the "Planet View"
+"MARS GEO ZOOM CONTROL" is the event processor base that handles user interactions with the planet and initiates all navigation from the "Planet View"
 to the surface.
 
 "UI AND SURFACE BUTTONS" contains the North Pole UI interactions as well as the animated Surface buttons which allow the user to travel between the "Planet View" and the surface.

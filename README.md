@@ -10,6 +10,8 @@ A PC/VR version (Developed on the Quest2) can be downloaded here:
 
 [Mars_Explorer_DTC_EXE](https://argos.vu/DTC_MARS/Mars_Explorer_DTC_EXE.zip)
 
+[![DTC_VID_IMG](https://argos.vu/wp-content/uploads/2021/10/DTC_VIDEOS.png)](https://youtu.be/fS4WjpeI61U)
+
 ![DTC_VID_IMG](https://argos.vu/wp-content/uploads/2021/10/DTC_VIDEOS.png)
 
 ([Presentation at Digital Twin Consortium Q3 - Presentation Video](https://youtu.be/fS4WjpeI61U))

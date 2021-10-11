@@ -41,14 +41,15 @@ The XR Rig can be located in the project hierarchy as shown above. Orientation a
 
 using the "A" button on the right controller.
 
-(Spherical Harmonics Reference - [Spherical Harmonics](https://argos.vu/wp-content/uploads/2021/10/Chapter4_multipole.pdf))
-
 ![Spherical Harmonics img](https://argos.vu/wp-content/uploads/2021/07/Pou-768x476-1.png)
 
 (Spherical Harmonics Reference - [Spherical Harmonics](https://argos.vu/wp-content/uploads/2021/10/Chapter4_multipole.pdf))
 
-![Diocotron img](https://argos.vu/wp-content/uploads/2021/10/3-Figure3-1.png)
+![Octahedral img](https://argos.vu/wp-content/uploads/2021/10/Octahedral_2.png)
 
+(Octahedral Symetries - [On spherical harmonics possessing octahedral symmetry](https://argos.vu/wp-content/uploads/2021/10/Octahedral_Harmonics.pdf))
+
+![Diocotron img](https://argos.vu/wp-content/uploads/2021/10/3-Figure3-1.png)
 
 (Diocotron Instability Reference - [Diocotron Instability](https://www.plasma-universe.com/diocotron-instability/))
 

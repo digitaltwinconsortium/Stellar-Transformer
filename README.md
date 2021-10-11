@@ -12,11 +12,11 @@ A PC/VR version (Developed on the Quest2) can be downloaded here:
 
 ![DTC_VID_IMG](https://argos.vu/wp-content/uploads/2021/10/DTC_VIDEOS.png)
 
-(Presentation at Digital Twin Consortium Q3 - [Presentation Video](https://youtu.be/fS4WjpeI61U))
+([Presentation at Digital Twin Consortium Q3 - Presentation Video](https://youtu.be/fS4WjpeI61U))
 
 ![DTC_CONF_IMG](https://argos.vu/wp-content/uploads/2021/10/DTC_SMALL.png)
 
-(Conference Highlights and Participants can be viewed here - [Digital Twin Conference Q3](https://www.digitaltwinconsortium.org/member-meeting-q3/index.htm))
+([Conference Highlights and Participants can be viewed here - Digital Twin Conference Q3](https://www.digitaltwinconsortium.org/member-meeting-q3/index.htm))
 
 # MARS VR ASSEMBLY
 

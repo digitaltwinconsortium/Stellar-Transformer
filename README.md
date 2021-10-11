@@ -41,7 +41,7 @@ The XR Rig can be located in the project hierarchy as shown above. Orientation a
 
 using the "A" button on the right controller.
 
-![Spherical Harmonics img](https://argos.vu/wp-content/uploads/2021/07/Pou-768x476-1.png)
+[![Spherical Harmonics img](https://argos.vu/wp-content/uploads/2021/07/Pou-768x476-1.png)](https://argos.vu/wp-content/uploads/2021/10/Chapter4_multipole.pdf))
 
 (Spherical Harmonics Reference - [Spherical Harmonics](https://argos.vu/wp-content/uploads/2021/10/Chapter4_multipole.pdf))
 

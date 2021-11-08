@@ -1,4 +1,5 @@
 # Mars Induction Explorer
+Open-Source Virtual Reality Initiative 'Mars Induction Explorer' is the first composite Digital Twin component of the larger Stellar Transformer project with plans to map Digital Twins of our entire solar system capturing long wavelength electromagnetic solar induction effects on all the planets.
 
 Unity Prototype for GeoPlasma development
 
